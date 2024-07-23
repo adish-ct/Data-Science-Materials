@@ -1,4 +1,42 @@
-STATITICS
+STATISTICS
+----------
 
 
-Statics is the science of Collecting, Organizing and Analyzing
+Statistics is the science of Collecting, Organizing and Analyzing.
+
+
+Two types of Statistics.
+
+	1. Descriptive Statistics (Organizing and summarizing of data)
+		(Pdf, Histogram, Box plot, Bar chart, Pie Chart)
+
+		"summarize and organize the characteristics of a data set. 			Whether you’re dealing with a sample or the entire population"
+
+	2. Inferential Statistics (Consist of using that you've measured)
+		(Hypothesis Testing, P value, Z test, T test, Anova)
+
+		"Inferential statistics is like the Sherlock Holmes of the data 		world. It takes your sample data (the clues) and deduces truths 		about the entire population (the elusive criminal)."
+
+# We will denote population(N) and sample(n)
+
+
+SAMPLING TECHNIQUES
+--------------------
+
+1. Simple Random Sampling
+	"Every member of the population(N) has an equal chance of being selected 	for your sample(n)".
+2. Stratified Sampling.
+	"Imagine organizing a masquerade ball for data points. You divide the 	population into exclusive groups (strata) based on certain 	characteristics (like species in a zoo: pandas, penguins, unicorns)"
+3. Systematic Sampling.
+	"Here, we follow a systematic beat. Let’s say you have a list of 	customers. You pick every nth customer (e.g., every 10th customer) from 	the list."
+4. Convenience Sampling.
+	"The lazy Sunday brunch approach. You grab whatever data points are 	readily available. Maybe you survey your friends or colleagues because 	they’re within arm’s reach."
+
+
+
+
+
+
+
+
+

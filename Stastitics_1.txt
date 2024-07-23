@@ -1,0 +1,12 @@
+STATITICS
+
+
+Statics is the science of Collecting, Organizing and Analyzing.
+
+
+Two types of Statistics.
+
+	1. Descriptive Statistics
+	2. Inferential Statistics
+
+
