@@ -35,6 +35,27 @@ SAMPLING TECHNIQUES
 
 
 
+A. Variable
+
+1. Quantitative Variable : Measured Numerically (Natural number)
+	1a. Discreate variable : Whole number (Number of eyes)
+	1b. Continues variable : Float values (Height, length)
+
+2. Qualitative Variable(Categorical)  : Measured without Numerical value(Gender, Religion)
+
+
+
+B. Variable Measurement Scale.
+	b1. Nominal Data(Categorical Data)
+	b2. Ordinal Data(Percentile)
+	b3. Interval Data.
+	b4. Histogram
+
+
+
+
+
+
 
 
 
